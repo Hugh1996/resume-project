@@ -1,3 +1,7 @@
+div#map {
+    min-height: 360px;
+}
+
 /* ---------------------------------- Colours */
 
 .bg-color-name-title {
